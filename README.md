@@ -2,7 +2,7 @@
 
 ![AI Animation Video Generator Banner](https://veoaifree.com/github/img_1763258019_1766.jpg)
 
-> Free AI Tool → [https://veoAI free.com/AI -animated-videos-generator/](https://veoAI free.com/AI -animated-videos-generator/)
+> Free AI Tool → [https://veoAI free.com/AI -animated-videos-generator/](https://veoaifree.com/ai-animated-videos-generator/)
 
 # AI Animation Video Generator
 
@@ -113,10 +113,8 @@ If you have questions or need assistance, please visit our Help Center where you
 
 MIT License
 
-Copyright (c) [year] [your name or your organization]
+Copyright (c) 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 ...
-
-[Continue with the rest of the MIT License text as needed]
